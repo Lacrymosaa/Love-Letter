@@ -4,9 +4,9 @@ import Particle from "./Components/SparksFly";
 function App() {
   return (
     <div className="App">
-      <LoveMessage message="  Eu te amo Bianca" />
+      <LoveMessage message="  Eu te amo!" />
       <HeartAnimation />
-      <LoveMessage message="  Obrigada por ser minha amor linda loira namorada perfeita mommy fav" />
+      <LoveMessage message="  Obrigada por ser minha amor linda namorada perfeita mommy fav" />
       <Particle />
     </div>
   );
