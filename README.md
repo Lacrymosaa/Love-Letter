@@ -1,6 +1,6 @@
 # Love-Letter-ReactJS
 
-O programa foi feito para treinar como funciona os arquivos de React (além de ser uma surpresa aleatória pra namorada).
+O programa foi feito para treinar como funciona os arquivos de React.
 
 O programa contém 3 funções:
 - Um letreiro que pode ser chamado para mostrar uma mensagem na tela onde os caracteres serão inseridos um a um
